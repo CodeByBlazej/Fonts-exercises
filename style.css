@@ -20,14 +20,20 @@
 /* General setup */
 
 
-.bricolage-grotesque {
+/* .bricolage-grotesque {
   font-family: "Bricolage Grotesque", sans-serif;
   font-optical-sizing: auto;
   font-weight: 200;
   font-style: normal;
   font-variation-settings:
     "wdth" 100;
-}
+} */
+
+/* html {
+  font-size: 10px;
+  margin: 0;
+  font-family: sans-serif;
+} */
 
 html {
   font-size: 10px;
@@ -52,13 +58,23 @@ h2 {
 }
 
 /* h1,h2{
-  font-family: "kaushan_scriptregular" ,serif;
+  font-family: "kaushan_scriptregular", serif;
   letter-spacing: 0.2rem;
 } */
 
+
+/* p {
+  font-size: 1.4rem;
+  line-height: 1.6;
+  word-spacing: 0.6rem;
+  letter-spacing: 0.1rem;
+  font-family: "kaushan_scriptregular", serif;
+} */
+
+
 h1,h2{
   font-family: "Bricolage Grotesque", serif;
-  font-weight: 400;
+  font-weight: 600;
   letter-spacing: 0.2rem;
 }
 
